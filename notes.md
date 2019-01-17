@@ -61,4 +61,16 @@
   496  git push
   497  git push origin master
   498  git push -f origin master
-  499  history
+  499  histor
+  543  git remote -v
+  544  git branch -a
+  545  history
+  546  vi notes.md
+  547  git status
+  548  git add .
+  549  git commit -m "create notes.md"
+  550  git branch -a
+  551  git push
+  552  git push origin master
+  553  vi notes.md 
+  554  historyy
